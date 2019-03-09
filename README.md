@@ -1,4 +1,4 @@
-Data-X Masterclass
+The Berkeley and praXec Masterclass
 =======================
 
 ### March 11
@@ -45,22 +45,28 @@ ___
 
 ---
 
-## Instructors
+## Instructors / Organizers
 
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
       <th style="width: 20%;"><img src="imgs/ikhlaq.jpeg" alt="Ikhlaq Sidhu" width=200px></th>
+      <th style="width: 20%;"><img src="imgs/george.jpeg" alt="George" width=200px></th>
+      <th style="width: 20%;"><img src="imgs/graham.jpeg" alt="Graham" width=200px></th>
       <th style="width: 20%;"><img src="imgs/alex.jpg" alt="Alexander Fred-Ojala" width=200px></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://www.linkedin.com/in/sidhu/">Ikhlaq Sidhu</a></td>
+      <td><a href="https://www.linkedin.com/in/sir-george-zambellas-dsc-fraes-57930711a/">George Zambellas</a></td>
+      <td><a href="https://www.linkedin.com/in/graham-caleb-78282a5b/">Graham Caleb</a></td>
       <td><a href="https://www.linkedin.com/in/alexanderfo">Alexander Fred-Ojala</a></td>
     </tr>
     <tr>
       <td>UC Berkeley Professor and Founding Director, <a href="https://scet.berkeley.edu/">SCET</a></td>
+      <td>Co-founder and Chairman, praxec <a href="https://www.praxec.com/">SCET</a></td>
+      <td>Co-founder, praxec <a href="https://www.praxec.com/">SCET</a></td>
       <td>Research Director, <a href="http://scet.berkeley.edu/data-lab">SCET, Data Lab</a></td>
     </tr>
   </tbody>
