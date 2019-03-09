@@ -50,10 +50,10 @@ ___
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
-      <th style="width: 20%;"><img src="imgs/ikhlaq.jpeg" alt="Ikhlaq Sidhu" width=200px></th>
-      <th style="width: 20%;"><img src="imgs/george.jpeg" alt="George" width=200px></th>
-      <th style="width: 20%;"><img src="imgs/graham.jpeg" alt="Graham" width=200px></th>
-      <th style="width: 20%;"><img src="imgs/alex.jpg" alt="Alexander Fred-Ojala" width=200px></th>
+      <th style="width: 20%;"><img src="imgs/ikhlaq.jpeg" alt="Ikhlaq Sidhu" width=150px></th>
+      <th style="width: 20%;"><img src="imgs/george.jpeg" alt="George" width=150px></th>
+      <th style="width: 20%;"><img src="imgs/graham.jpeg" alt="Graham" width=220px></th>
+      <th style="width: 20%;"><img src="imgs/alex.jpg" alt="Alexander Fred-Ojala" width=150px></th>
     </tr>
   </thead>
   <tbody>
@@ -78,6 +78,8 @@ ___
 ## 📧 Contact us
 
 - **Ikhlaq Sidhu:** sidhu @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/ikhlaq/))
+- **George Zambellas** 	george.zambellas @ praxec com ([LinkedIn](https://www.linkedin.com/in/sir-george-zambellas-dsc-fraes-57930711a/))
+- **Graham Caleb** graham.caleb @ calebacuity com ([LinkedIn](https://www.linkedin.com/in/graham-caleb-78282a5b/))
 - **Alexander Fred-Ojala:** afo @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/alexanderfo/))
 
 ## 📁 About the Bootcamp
