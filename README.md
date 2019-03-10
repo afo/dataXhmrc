@@ -65,8 +65,8 @@ ___
     </tr>
     <tr>
       <td>UC Berkeley Professor and Founding Director, <a href="https://scet.berkeley.edu/">SCET</a></td>
-      <td>Co-founder and Chairman, praxec <a href="https://www.praxec.com/">SCET</a></td>
-      <td>Co-founder, praxec <a href="https://www.praxec.com/">SCET</a></td>
+      <td>Co-founder and Chairman, <a href="https://www.praxec.com/">praxec</a></td>
+      <td>Co-founder, <a href="https://www.praxec.com/">praxec</a></td>
       <td>Research Director, <a href="http://scet.berkeley.edu/data-lab">SCET, Data Lab</a></td>
     </tr>
   </tbody>
