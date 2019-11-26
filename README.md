@@ -1,8 +1,6 @@
 The Berkeley and praXec Masterclass
 =======================
 
-### March 11
-
 This is the official Github repository for the Masterclass.
 
 #### High level outline:
